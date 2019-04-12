@@ -1,6 +1,6 @@
 #### This file generates artificial data for a random forest model to be developped as MVP ####
 
-## Each single instance of the data represents a participant. 
+## Each single instance of the data represents a participant.. 
 ## This instance could be repeated across the dataset as participants might have the same behaviours. The participant s are not sorted according to any given event. 
 ## Plausibility of data is made by assuming the features are drawn from multiple distributions 
 

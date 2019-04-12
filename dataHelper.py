@@ -1,4 +1,4 @@
-# This file define the possible features of the data set
+# This file define the possible features of the data set.
 
 import numpy as np
 import random as rd

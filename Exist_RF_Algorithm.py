@@ -1,5 +1,5 @@
 # This file trains the random forest trees for predicting 
-# the show up probability of an event participant.
+# the show up probability of an event participant..
 # N-fold cross validation is used for choosing the tree having the best performance. 
 # The number of folds must be specified at training time. This is set to default value 10
 # 
