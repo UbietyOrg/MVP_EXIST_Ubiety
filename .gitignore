@@ -1,4 +1,4 @@
-# Distribution / packaging
+# Distribution / packaging.
 bin/
 numpy/
 numpy-1.16.2.dist-info/
