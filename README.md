@@ -1,4 +1,4 @@
-# This the source code for the random forest algorithm developed for as EXIST MVP
+# This the source code for the random forest algorithm developed for the EXIST MVP
 
 ## Depenencies 
   - numpy
